@@ -10,5 +10,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
-![AWS Badge](https://www.credly.com/badges/2a08f15f-893c-40fb-a1fc-01e4855e97af/public_url)
+<img src="https://www.credly.com/badges/2a08f15f-893c-40fb-a1fc-01e4855e97af/public_url"/>
 
