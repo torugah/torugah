@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toruga)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=toruga&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
 </br></br><p>Minha(s) certificação(ões)</p>
 
