@@ -9,7 +9,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"/>
 
-  <img src="https://www.credly.com/badges/2a08f15f-893c-40fb-a1fc-01e4855e97af/public_url"/>
+  <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>
  
 </picture>
 
