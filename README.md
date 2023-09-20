@@ -16,7 +16,7 @@
 
 <div style="display: inline_block" ><br>
 
-  <p>Tecnologias de meu conhecimento</p></br></br>
+  </br></br><p>Tecnologias de meu conhecimento</p>
 
   <img align="center" alt="Diel-HTML5" height="30" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   
