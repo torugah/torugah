@@ -1,13 +1,8 @@
-##
 <div>
-
-	<h1 align="center">
-		Testing my Git
-  	</h1>
- 
+  <img align="right" alt="Diel-pic" height="350" style="border-radius:50px;" src="https://i.imgur.com/CCQp8Jb.png">
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=torugah&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" /></br>
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torugah&layout=compact&langs_count=16&theme=darcula"/>
 </div>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=torugah&show_icons=true&theme=darcula&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/torugah/github-readme-stats)
 
 <div>
 	<img height="250cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torugah&layout-compact&langs_count=10000&theme=dark"/>
