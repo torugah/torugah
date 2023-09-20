@@ -30,6 +30,8 @@
   
   <img align="center" alt="Diel-Mysql" height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 
+  <img align="center" alt="Fillipi-AWS" height="30" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+
 <div style="display: inline_block" ><br>
 
 </br></br><p>Minha(s) certificação(ões)</p>
