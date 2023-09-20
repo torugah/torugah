@@ -1,7 +1,8 @@
 <div>
   
   <h1 align="center">
-    Testing my Git
+    	Tudo em paz, nobre? Eu sou o 
+	 <a href="https://www.linkedin.com/in/fillipibarros/">Fillipi Barros 😁</a>
   </h1>
   
 </div>
@@ -11,12 +12,6 @@
 
 <div>
 	<img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torugah&layout=compact&langs_count=16&theme=darcula"/>
-</div>
-
-<div style="display: inline_block" ><br>
-
-<div>
-	<img height="250cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torugah&layout-compact&langs_count=10000&theme=dark"/>
 </div>
 
 <div style="display: inline_block" ><br>
