@@ -11,6 +11,7 @@
 <div style="display: inline_block" ><br>
 
 <div>
+	<img src="https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green"/>
 	<img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torugah&layout=compact&langs_count=16&theme=darcula"/>
 </div>
 
