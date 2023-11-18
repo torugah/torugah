@@ -1,8 +1,8 @@
 <div>
   
   <h1 align="center">
-    	Tudo em paz, nobre? Eu sou o 
-	 <a href="https://www.linkedin.com/in/fillipi-barros-161461211/">Fillipi Barros 😁</a>
+    	Tudo bem? Eu sou o 
+	 <a href="https://www.linkedin.com/in/fillipi-barros-161461211/">Fillipi Barros</a>
   </h1>
   
 </div>
